@@ -1,6 +1,6 @@
 ﻿using System.Xml.Linq;
 
-namespace LinqToXml
+namespace ConsoleApp9
 {
     class Product
     {
